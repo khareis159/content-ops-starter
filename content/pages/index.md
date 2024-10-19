@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ocurando dicas para melhor nivelar suas atividades de crescimento?
+      text: Procurando dicas para melhor nivelar suas atividades de crescimento?
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
