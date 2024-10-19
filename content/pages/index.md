@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      xRenda é um reduto digital informativo livre que busca atender pessoas com
+      os mesmos interesses em dicas, técnicas, métodos e oportunidades sobre
+      como ser financeiramente estável e como conquistar e obter recursos para
+      se viver em seus próprios termos criando a sua plena auto afirmação
+      independente.
     actions:
       - label: Get started
         altText: ''
