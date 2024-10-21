@@ -9,13 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-
-
-
-
       <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
       DE DINHEIRO?** Sua fonte de renda independente que nunca se esgota?
-      Riqueza real para satisfazer todos os seus desejos e necessidades?Conheça
+      Riqueza real para satisfazer todos os seus desejos e necessidades? Conheça
       esta fabulosa oportunidade de construção de riqueza. Tudo o que você
       precisa
 
@@ -26,12 +22,6 @@ sections:
       (61) 999487649. Favor mandar o print do comprovante em seu nome para:Zap
 
       (61) 999487649 **BSB / DF.**</div>
-
-
-
-
-
-
 
     actions:
       - label: Get started
