@@ -48,7 +48,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: MUDE O NÍVEL
+      label: OLá!
       color: text-primary
       type: Badge
     elementId: ''
