@@ -7,7 +7,7 @@ sections:
       text: Procurando dicas para melhor nivelar suas atividades de crescimento?
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Oportunidade Única:'
     text: >+
       <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
       DE DINHEIRO?** Sua fonte de renda independente que nunca se esgota?
