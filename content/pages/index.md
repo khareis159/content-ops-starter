@@ -15,9 +15,10 @@ sections:
       esta fabulosa oportunidade de construção de riqueza. Tudo o que você
       precisa
 
-      será fornecido e enviado pelo correio. Duvide da autenticidade se quiser,
-      caso contrário aprenda como ganhar muito dinheiro. Basta nos enviar um Pix
-      de RS 5,00 para
+      será amplamente fornecido e enviado pelo correio. Duvide da autenticidade
+      se quiser, caso contrário aprenda como ganhar muito dinheiro. Para as
+      despesas de envio de todo o material via correios, basta nos enviar um Pix
+      de RS 5,00 para a chave
 
       (61) 999487649. Favor mandar o print do comprovante em seu nome para:Zap
 
