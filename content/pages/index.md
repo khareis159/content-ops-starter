@@ -23,7 +23,7 @@ sections:
       despesas de envio de todo o material via correios, basta nos enviar um Pix
       de RS 5,00 para a chave
 
-      (61) 999487649. Favor mandar o print do comprovante incluindo em seu nome
+      (61) 999487649. Favor mandar o print do comprovante incluindo o seu nome
       completo e endereço para: Zap
 
       (61) 999487649 **BSB / DF.**</div>
