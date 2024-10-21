@@ -8,12 +8,31 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      xRenda é um reduto digital informativo livre que busca atender pessoas com
-      os mesmos interesses em dicas, técnicas, métodos e oportunidades sobre
-      como ser financeiramente estável e como conquistar e obter recursos para
-      se viver em seus próprios termos criando a sua plena auto afirmação
-      independente.
+    text: >+
+
+
+
+
+      <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
+      DE DINHEIRO?** Sua fonte de renda independente que nunca se esgota?
+      Riqueza real para satisfazer todos os seus desejos e necessidades?Conheça
+      esta fabulosa oportunidade de construção de riqueza. Tudo o que você
+      precisa
+
+      será fornecido e enviado pelo correio. Duvide da autenticidade se quiser,
+      caso contrário aprenda como ganhar muito dinheiro. Basta nos enviar um Pix
+      de RS 5,00 para
+
+      (61) 999487649. Favor mandar o print do comprovante em seu nome para:Zap
+
+      (61) 999487649 **BSB / DF.**</div>
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
