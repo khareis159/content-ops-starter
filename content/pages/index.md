@@ -7,6 +7,9 @@ sections:
       text: Procurando dicas para melhor nivelar suas atividades de crescimento?
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: 'Oportunidade Única:'
     text: >+
       <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
