@@ -53,7 +53,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: OLá!
+      label: bem vindo ao xRenda!
       color: text-primary
       type: Badge
     elementId: ''
