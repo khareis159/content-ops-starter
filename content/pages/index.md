@@ -761,7 +761,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: xRenda - Sistema de Formação de Riqueza
-  metaDescription: ''
+  metaDescription: Gerenciamento de criação de riqueza
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
