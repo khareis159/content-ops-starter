@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Procurando dicas para melhor nivelar suas atividades de crescimento?
+      text: Sistema de Formação de Riqueza
       color: text-dark
       type: TitleBlock
       styles:
