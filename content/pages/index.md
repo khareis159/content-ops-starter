@@ -12,8 +12,8 @@ sections:
           fontWeight: 400
     subtitle: 'Oportunidade Única:'
     text: >
-      <div style="text-align: center">VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
-      DE DINHEIRO?
+      <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
+      DE DINHEIRO?**
 
       Sua fonte de renda independente que nunca se esgota?
 
