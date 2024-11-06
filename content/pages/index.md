@@ -12,9 +12,9 @@ sections:
           fontWeight: 400
     subtitle: 'Oportunidade Única:'
     text: >+
-      <div style="text-align: center"> **VOCÊ GOSTARIA DE OBTER SUA
+      <div style="text-align: center">VOCÊ GOSTARIA DE OBTER SUA
 
-      PRÓPRIA FONTE DE DINHEIRO?**Sua fonte de renda independente que nunca se
+      PRÓPRIA FONTE DE DINHEIRO?Sua fonte de renda independente que nunca se
       esgota? Riqueza real para satisfazer
 
       todos os seus desejos e necessidades? Conheça esta fabulosa oportunidade
@@ -27,9 +27,6 @@ sections:
 
       Envie comprovante do Pix, nome completo e endereço para: Zap (61)
       999487649 - Bsb /Df.</div>
-
-
-      </div>
 
     actions:
       - label: Get started
