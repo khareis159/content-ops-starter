@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 400
     subtitle: 'Oportunidade Única:'
-    text: >
+    text: >+
       <div style="text-align: center">**VOCÊ GOSTARIA DE OBTER SUA PRÓPRIA FONTE
       DE DINHEIRO?**
 
@@ -28,12 +28,13 @@ sections:
 
       dinheiro com o kit xRenda.
 
-      Para receber o material, transfira R$ 5,00 para o Pix (61) 999487649.
+      Para receber o material, transfira R$ 35,00 para o Pix (61) 999487649.
 
       Atenção:
 
       Envie comprovante do Pix, nome completo e endereço para: Zap (61)
       999487649 - Bsb /Df.</div>
+
     actions:
       - label: Get started
         altText: ''
