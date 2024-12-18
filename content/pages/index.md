@@ -28,7 +28,7 @@ sections:
 
       dinheiro com o kit xRenda.
 
-      Para receber o material, transfira R$ 35,00 para o Pix (61) 999487649.
+      Para receber o material, transfira R$ 20,00 para o Pix (61) 999487649.
 
       Atenção:
 
